@@ -35,6 +35,7 @@ function App() {
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/about" element={<About />} />
+          const gradient = require('gradient-string');
 
         </Routes>
         <Footer />

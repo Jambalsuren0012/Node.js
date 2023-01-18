@@ -2,11 +2,11 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import {
   AiFillGithub,
-  BsFacebook,
   AiOutlineTwitter,
   AiFillInstagram,
 } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
+import { FaFacebook } from "react-icons/fa";
 
 
 function Footer() {
@@ -30,7 +30,7 @@ function Footer() {
                 target="_blank" 
                 rel="noopener noreferrer"
               >
-                <AiFillGithub />
+                <FaFacebook />
               </a>
             </li>
             <li className="social-icons">
