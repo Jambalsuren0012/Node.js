@@ -68,7 +68,7 @@ function Home2() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href=""
+                  href="https://www.facebook.com/jambaa.jambalsuren.5"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
