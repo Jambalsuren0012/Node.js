@@ -6,7 +6,8 @@ import {
   AiFillInstagram,
 } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
-import { FaFacebook } from "react-icons/fa";
+import { FaFacebook , AiOutlineHtml5 } from "react-icons/fa";
+
 
 
 function Footer() {
@@ -31,26 +32,6 @@ function Footer() {
                 rel="noopener noreferrer"
               >
                 <FaFacebook />
-              </a>
-            </li>
-            <li className="social-icons">
-              <a
-                href="https://www.facebook.com/jambaa.jambalsuren.5"
-                style={{ color: "white" }}
-                target="_blank" 
-                rel="noopener noreferrer"
-              >
-                <AiOutlineTwitter />
-              </a>
-            </li>
-            <li className="social-icons">
-              <a
-                href="https://www.facebook.com/jambaa.jambalsuren.5"
-                style={{ color: "white" }}
-                target="_blank" 
-                rel="noopener noreferrer"
-              >
-                <FaLinkedinIn />
               </a>
             </li>
             <li className="social-icons">
